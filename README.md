@@ -9,7 +9,7 @@ This project applies **Logistic Regression** to classify whether an object is a 
 
 ## 📊 Dataset
 
-- **Source**: [SONAR Dataset]([https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view))
+- **Source**: [UCI SONAR Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))
 - **Rows**: 208
 - **Features**: 60 numerical attributes (sonar signals)
 - **Target**: 
